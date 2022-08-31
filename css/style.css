@@ -157,7 +157,7 @@ img {
 }
 
 .logo-desing {
-  width: 5%;
+  width: 8%;
   height: auto;
 }
 
@@ -530,7 +530,7 @@ img {
 
 .about .content .title {
   font-size: 6rem;
-  margin-top: -4rem;
+  margin-top: -2rem;
   font-family: 'gangofthree';
   text-transform: uppercase;
   color: var(--black);
@@ -1369,7 +1369,7 @@ input.whats-input[type=text]:focus {
   }
 
   .logo-desing {
-    width: 10%;
+    width: 15%;
   }
 
   .heading .sub-menu {
@@ -1410,7 +1410,7 @@ input.whats-input[type=text]:focus {
   }
 
   .logo-desing {
-    width: 14%;
+    width: 18%;
   }
 
   .heading .title-menu {
@@ -1418,7 +1418,7 @@ input.whats-input[type=text]:focus {
   }
 
   .heading .sub-menu {
-    font-size: 6rem;
+    font-size: 5rem;
   }
 }
 
