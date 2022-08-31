@@ -301,8 +301,8 @@ img {
 /*========== MENU ==========*/
 
 .menu {
-  background: url(../images/background-menu.jpg) no-repeat;
-  background-size: cover;
+  background: var(--palet-1) url(../images/vectores/patron-1.svg) repeat ;
+  background-size: contain;
   background-position: center;
   padding: 2rem 9% !important;
 }
